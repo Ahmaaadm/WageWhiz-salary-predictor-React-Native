@@ -1,0 +1,219 @@
+[
+    {
+      "name": "Lionel Messi",
+      "age": 36,
+      "nationality": "Argentina",
+      "position": "Forward",
+      "wage": 1000000,
+      "goals": 700,
+      "assists": 300
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "age": 39,
+      "nationality": "Portugal",
+      "position": "Forward",
+      "wage": 950000,
+      "goals": 750,
+      "assists": 200
+    },
+    {
+      "name": "Kylian Mbappe",
+      "age": 25,
+      "nationality": "France",
+      "position": "Forward",
+      "wage": 800000,
+      "goals": 250,
+      "assists": 150
+    },
+    {
+      "name": "Virgil van Dijk",
+      "age": 33,
+      "nationality": "Netherlands",
+      "position": "Defender",
+      "wage": 600000,
+      "goals": 25,
+      "assists": 10
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "age": 32,
+      "nationality": "Belgium",
+      "position": "Midfielder",
+      "wage": 700000,
+      "goals": 80,
+      "assists": 150
+    },
+    {
+      "name": "Sergio Ramos",
+      "age": 37,
+      "nationality": "Spain",
+      "position": "Defender",
+      "wage": 500000,
+      "goals": 100,
+      "assists": 20
+    },
+    {
+      "name": "Neymar Jr",
+      "age": 32,
+      "nationality": "Brazil",
+      "position": "Forward",
+      "wage": 850000,
+      "goals": 250,
+      "assists": 200
+    },
+    {
+      "name": "Manuel Neuer",
+      "age": 38,
+      "nationality": "Germany",
+      "position": "Goalkeeper",
+      "wage": 550000,
+      "goals": 0,
+      "assists": 5
+    },
+    {
+      "name": "Joshua Kimmich",
+      "age": 29,
+      "nationality": "Germany",
+      "position": "Midfielder",
+      "wage": 600000,
+      "goals": 40,
+      "assists": 100
+    },
+    {
+      "name": "Luka Modric",
+      "age": 38,
+      "nationality": "Croatia",
+      "position": "Midfielder",
+      "wage": 500000,
+      "goals": 50,
+      "assists": 120
+    },
+    {
+      "name": "Robert Lewandowski",
+      "age": 35,
+      "nationality": "Poland",
+      "position": "Forward",
+      "wage": 900000,
+      "goals": 500,
+      "assists": 50
+    },
+    {
+      "name": "Eden Hazard",
+      "age": 33,
+      "nationality": "Belgium",
+      "position": "Forward",
+      "wage": 650000,
+      "goals": 150,
+      "assists": 200
+    },
+    {
+      "name": "Gareth Bale",
+      "age": 35,
+      "nationality": "Wales",
+      "position": "Forward",
+      "wage": 550000,
+      "goals": 150,
+      "assists": 70
+    },
+    {
+      "name": "Sergio Busquets",
+      "age": 36,
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "wage": 500000,
+      "goals": 15,
+      "assists": 120
+    },
+    {
+      "name": "Jan Oblak",
+      "age": 31,
+      "nationality": "Slovenia",
+      "position": "Goalkeeper",
+      "wage": 600000,
+      "goals": 0,
+      "assists": 2
+    },
+    {
+      "name": "Marc-André ter Stegen",
+      "age": 32,
+      "nationality": "Germany",
+      "position": "Goalkeeper",
+      "wage": 550000,
+      "goals": 0,
+      "assists": 0
+    },
+    {
+      "name": "Alisson Becker",
+      "age": 31,
+      "nationality": "Brazil",
+      "position": "Goalkeeper",
+      "wage": 700000,
+      "goals": 0,
+      "assists": 0
+    },
+    {
+      "name": "Kalidou Koulibaly",
+      "age": 33,
+      "nationality": "Senegal",
+      "position": "Defender",
+      "wage": 500000,
+      "goals": 15,
+      "assists": 5
+    },
+    {
+      "name": "Josko Gvardiol",
+      "age": 22,
+      "nationality": "Croatia",
+      "position": "Defender",
+      "wage": 450000,
+      "goals": 5,
+      "assists": 2
+    },
+    {
+      "name": "Marquinhos",
+      "age": 30,
+      "nationality": "Brazil",
+      "position": "Defender",
+      "wage": 550000,
+      "goals": 20,
+      "assists": 10
+    },
+    {
+      "name": "Bruno Fernandes",
+      "age": 30,
+      "nationality": "Portugal",
+      "position": "Midfielder",
+      "wage": 600000,
+      "goals": 50,
+      "assists": 90
+    },
+    {
+      "name": "Jude Bellingham",
+      "age": 21,
+      "nationality": "England",
+      "position": "Midfielder",
+      "wage": 500000,
+      "goals": 30,
+      "assists": 40
+    },
+    {
+      "name": "Pedri",
+      "age": 21,
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "wage": 450000,
+      "goals": 20,
+      "assists": 30
+    },
+    {
+      "name": "Kai Havertz",
+      "age": 25,
+      "nationality": "Germany",
+      "position": "Midfielder",
+      "wage": 550000,
+      "goals": 40,
+      "assists": 20
+    }
+  ]
+  
